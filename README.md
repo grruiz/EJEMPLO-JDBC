@@ -1,2 +1,2 @@
 # JDBC
-Ejemplo de java con JDBC
+Ejemplo de Java con JDBC
